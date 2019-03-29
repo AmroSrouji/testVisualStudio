@@ -17,7 +17,7 @@ namespace testGitHubProject
     {
         public Startup(IConfiguration configuration)
         {
-            //Test vs
+            //Test vs from git
             Configuration = configuration;
         }
 
